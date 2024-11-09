@@ -1,0 +1,28 @@
+.footer {
+    background-color: #1a1a2e;
+    color: #ffffff;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .footer-info {
+    margin-bottom: 1rem;
+  }
+  
+  .footer h4 {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    color: #e94560;
+  }
+  
+  .footer-map {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .footer p {
+    font-size: 1rem;
+    margin: 0;
+  }
+  
